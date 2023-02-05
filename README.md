@@ -3,7 +3,17 @@
 
 - Eccomerce created with html, css and javascript [Eccomerce](https://magnificent-haupia-0f060e.netlify.app)
 
+- Certificate in programming fundamentals **HTML, CSS, JavaScript**
+
 - Eccomerce create with ReactJS use API [Eccomerce ReactJ](https://e-commerce-react-frontend.netlify.app)
+
+- reactJS pokeAPI [PokeApi Whit ReacJS](https://pokeapi-react-frontend.netlify.app/#/pokedex)
+
+- Portfolio - ReactJS [https://portfolio-whit-react.netlify.app](https://portfolio-whit-react.netlify.app)
+
+- Certificate in Frontend Developers Whit ReactJS **ReactJs**
+
+- Correo Gmail **gyostin604@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
